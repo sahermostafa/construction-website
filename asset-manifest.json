@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/construction-website/static/css/main.5859b085.chunk.css",
+    "main.js": "/construction-website/static/js/main.abb491f4.chunk.js",
+    "main.js.map": "/construction-website/static/js/main.abb491f4.chunk.js.map",
+    "runtime-main.js": "/construction-website/static/js/runtime-main.cdd312d0.js",
+    "runtime-main.js.map": "/construction-website/static/js/runtime-main.cdd312d0.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/construction-website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7c8ef71e.chunk.js": "/construction-website/static/js/2.7c8ef71e.chunk.js",
+    "static/js/2.7c8ef71e.chunk.js.map": "/construction-website/static/js/2.7c8ef71e.chunk.js.map",
+    "index.html": "/construction-website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/construction-website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.5859b085.chunk.css.map": "/construction-website/static/css/main.5859b085.chunk.css.map",
+    "static/js/2.7c8ef71e.chunk.js.LICENSE.txt": "/construction-website/static/js/2.7c8ef71e.chunk.js.LICENSE.txt",
+    "static/media/light-logo.e3caef21.png": "/construction-website/static/media/light-logo.e3caef21.png",
+    "static/media/pexels-marc-mueller-380769.f2d723a9.jpg": "/construction-website/static/media/pexels-marc-mueller-380769.f2d723a9.jpg",
+    "static/media/pexels-photomix-company-224924.ca9d28cf.jpg": "/construction-website/static/media/pexels-photomix-company-224924.ca9d28cf.jpg",
+    "static/media/pexels-pixabay-416405.18adf558.jpg": "/construction-website/static/media/pexels-pixabay-416405.18adf558.jpg",
+    "static/media/pexels-pixabay-459728.26e9ba37.jpg": "/construction-website/static/media/pexels-pixabay-459728.26e9ba37.jpg",
+    "static/media/pexels-rodnae-productions-7464703.dd2115d2.jpg": "/construction-website/static/media/pexels-rodnae-productions-7464703.dd2115d2.jpg",
+    "static/media/pexels-rodnae-productions-8292785.ca9877fc.jpg": "/construction-website/static/media/pexels-rodnae-productions-8292785.ca9877fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd312d0.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7c8ef71e.chunk.js",
+    "static/css/main.5859b085.chunk.css",
+    "static/js/main.abb491f4.chunk.js"
+  ]
+}
